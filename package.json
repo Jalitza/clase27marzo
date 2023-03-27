@@ -1,0 +1,22 @@
+{
+  "name": "clase27marzo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jalitza/clase27marzo.git"
+  },
+  "author": "jalitza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jalitza/clase27marzo/issues"
+  },
+  "homepage": "https://github.com/Jalitza/clase27marzo#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
